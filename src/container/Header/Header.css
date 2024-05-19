@@ -1,0 +1,26 @@
+.app_header {
+    background: rgb(211, 197, 140);
+    position: relative; 
+}
+
+.app_header-h1 {
+    font-family: var(--font-base);
+    color: #027c4d;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    line-height: 90px;
+    font-size: 70px;
+}
+
+.app_header-img img {
+    width: 80%;
+    position: relative; 
+}
+
+
+@media screen and (max-width: 768px) {
+    .app_header-h1 {
+        font-size: 50px; 
+        line-height: 50px; 
+    }
+}
