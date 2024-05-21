@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Resturante-home-page/static/css/main.031d5669.css",
+    "main.js": "/Resturante-home-page/static/js/main.c0aec919.js",
+    "static/media/meal.mp4": "/Resturante-home-page/static/media/meal.797705972ce61874d03f.mp4",
+    "static/media/findus.jpg": "/Resturante-home-page/static/media/findus.44119b277234736e53a3.jpg",
+    "static/media/gallery01.jpg": "/Resturante-home-page/static/media/gallery01.b750a18d6d66260c60b5.jpg",
+    "static/media/Chef.jpg": "/Resturante-home-page/static/media/Chef.1093f1ad096f2dbc112b.jpg",
+    "static/media/gallery04.jpg": "/Resturante-home-page/static/media/gallery04.b112cc0065ad86a41227.jpg",
+    "static/media/gallery02.jpg": "/Resturante-home-page/static/media/gallery02.c90b8388ec5ff568804e.jpg",
+    "static/media/gallery03.jpg": "/Resturante-home-page/static/media/gallery03.b710e7d05a5acb52c26c.jpg",
+    "static/media/laurels.jpg": "/Resturante-home-page/static/media/laurels.ff2deebbd6581760872f.jpg",
+    "static/media/Drinks.png": "/Resturante-home-page/static/media/Drinks.a322a231dafd1bf21d69.png",
+    "static/media/welcome.jpg": "/Resturante-home-page/static/media/welcome.b819000b5184edd4f770.jpg",
+    "static/media/V.jpg": "/Resturante-home-page/static/media/V.d22dff1ab2168fd02eb1.jpg",
+    "static/media/award01.png": "/Resturante-home-page/static/media/award01.1616baa82e9d31249b54.png",
+    "static/media/quote.png": "/Resturante-home-page/static/media/quote.c6cc43780e04766e94cf.png",
+    "static/media/award03.png": "/Resturante-home-page/static/media/award03.3becf600b6e4b7489cbf.png",
+    "static/media/Logo.png": "/Resturante-home-page/static/media/Logo.aac32c15c2db339ef7a4.png",
+    "index.html": "/Resturante-home-page/index.html",
+    "main.031d5669.css.map": "/Resturante-home-page/static/css/main.031d5669.css.map",
+    "main.c0aec919.js.map": "/Resturante-home-page/static/js/main.c0aec919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.031d5669.css",
+    "static/js/main.c0aec919.js"
+  ]
+}
